@@ -1,0 +1,56 @@
+/* 전체 배경 */
+body {
+    background-color: rgb(245, 247, 250);
+}
+.list {
+    display: none;
+}
+/* 상단 제목 */
+.title {
+    width: 60%;
+    margin: 20px auto;
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: rgb(15 41 77 / 12%) 0px 4px 20px;
+}
+.title h1 {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.container {
+    width: 60%;
+    margin: 20px auto;
+    background: rgb(255, 255, 255);
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: rgb(15 41 77 / 12%) 0px 4px 20px;
+}
+/* 위 영역 안 글자 */
+.container p {
+    text-align: center;
+}
+.cctv {
+    width: 60%;
+    margin: 20px auto;
+    background: rgb(255, 255, 255);
+    padding: 24px 16px 16px;
+    border-radius: 8px;
+    box-shadow: rgb(15 41 77 / 12%) 0px 4px 20px;
+}
+.cctv .list {
+    text-align: center;
+    font-size: 1.5rem; /* CCTV 이름의 폰트 크기를 키움 */
+    /*display: flex;*/              /* flexbox를 사용하여 내용 배치 */
+    align-items: center;       /* 내용을 수직 중앙에 배치 */
+    justify-content: center;   /* 내용을 수평 중앙에 배치 */
+    margin: 15px 0;            /* 위아래로 15px의 마진 추가 */
+}
+.cctv img {
+    width: 250px;  /* 이미지의 너비를 축소 */
+    height: 150px; /* 이미지의 높이를 조정 */
+    object-fit: contain; /* 이미지가 잘리지 않도록 설정 */
+    vertical-align: middle;    /* 이미지를 수직 중앙에 배치 */
+    margin-left: 20px;         /* 이미지와 텍스트 사이의 간격을 조정 */
+}
