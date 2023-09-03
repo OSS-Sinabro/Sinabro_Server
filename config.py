@@ -1,6 +1,6 @@
 """ 사용자 설정 부분 """
 
-# topic 이름은 "cctv_숫자" 형태를 지켜야 한다.
+# topic(CCTVS) 이름은 "cctv_숫자" 형태를 지켜야 한다.
 CCTVS_IDS = [1, 2, 3]
 
 # MQTT broker ip 설정
