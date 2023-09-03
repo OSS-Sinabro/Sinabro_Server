@@ -27,7 +27,7 @@
 <br/>
 
 - <b>환경 변수 설정</b>
-    <p align="center"><br/><img src="https://github.com/OSS-Sinabro/Sinabro_Server/assets/90829718/c31c2e25-c918-4512-a538-cc1c526e2ab3" alt="mosq set" width="600"></p>
+    <p align="center"><br/><img src="https://github.com/OSS-Sinabro/Sinabro_Server/assets/90829718/c31c2e25-c918-4512-a538-cc1c526e2ab3" alt="mosq set" width="800"></p>
 
 <br/>
 
