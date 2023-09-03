@@ -3,8 +3,6 @@
 <br/>
 </div>
 
-<br/>
-
 ## 🛠 시스템 구성도
 ><p align="center"><img src="https://github.com/OSS-Sinabro/Sinabro_Server/assets/90829718/5b7d8e34-79e5-4831-9091-6faea1e605cf" alt="시스템 구성도" width="600"></p>
 
