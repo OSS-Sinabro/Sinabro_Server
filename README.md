@@ -70,6 +70,13 @@ EX) MQTT_BROKER_ADDRESS = "192.168.219.121"
 <br/>
 
 6. **Set Broker**<br/>
-    - Mosquitto broker / Redis broker 설정은 아래 문서를 참고해주세요.
+    - Mosquitto broker / Redis broker 설정은 아래 문서를 참고해주세요
     - <a href="https://github.com/OSS-Sinabro/Sinabro_Server/blob/main/SET_BROKER.md"> BROKER</a>
     
+<br/>
+
+7. **Run start_server.bat**
+    - start_server.bat 실행
+
+<br/>
+
