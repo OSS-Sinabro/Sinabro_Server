@@ -68,3 +68,10 @@ EX) MQTT_BROKER_ADDRESS = "192.168.219.121"
 5. **Set Model file**<br/>
     - model download : <a href="https://drive.google.com/file/d/16JeA2ZvXkhJcd5dfkVBkT9tbOrz0xvyb/view?usp=sharing">Flooded_road_classification_model.pth</a>
     - 다운로드 받은 model을 project root path에 위치시켜 주세요
+<br/>
+<br/>
+
+6. **Set Broker**<br/>
+    - Mosquitto broker / Redis broker 설정은 아래 문서를 참고해주세요.
+    - <a href="https://github.com/OSS-Sinabro/Sinabro_Server/blob/main/SET_BROKER.md"> BROKER</a>
+    
