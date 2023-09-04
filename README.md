@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Sinabro Server</h1>
-<br/>
 </div>
 
 ## 🛠 시스템 구성도
